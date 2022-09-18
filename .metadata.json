@@ -1,9 +1,5 @@
 [
   {
-    "package": "FinCal",
-    "oncran": true
-  },
-  {
     "package": "PubMedWordcloud",
     "oncran": true
   }
