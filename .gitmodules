@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FinCal"]
+	path = FinCal
+	url = https://github.com/felixfan/fincal
+	shallow = true
+	registered = true
 [submodule "PubMedWordcloud"]
 	path = PubMedWordcloud
 	url = https://github.com/felixfan/pubmedwordcloud
