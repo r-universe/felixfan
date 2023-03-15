@@ -1,10 +1,10 @@
 [
   {
-    "package": "PubMedWordcloud",
+    "package": "FinCal",
     "oncran": true
   },
   {
-    "package": "FinCal",
+    "package": "PubMedWordcloud",
     "oncran": true
   }
 ]
