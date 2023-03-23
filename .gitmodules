@@ -13,3 +13,8 @@
 	url = https://github.com/felixfan/pubmedwordcloud
 	shallow = true
 	registered = true
+[submodule "RGenetics"]
+	path = RGenetics
+	url = https://github.com/cran/RGenetics
+	shallow = true
+	registered = true
